@@ -1,0 +1,15 @@
+platform :ios, ‘8.0’
+
+use_frameworks!
+
+target 'HZLogistics' do
+    pod 'AFNetworking', '~> 3.1.0'
+    pod 'BaiduMapKit', '~> 3.0.0'
+    pod 'BPushSDK', '~> 1.4.5'
+    pod 'SDWebImage', '~> 3.7.6'
+    pod 'MTA', '~> 1.5.3'
+    pod 'EAIntroView', '~> 2.9.0'
+    pod 'MOBFoundation_IDFA'
+    pod 'SMSSDK'
+
+end
